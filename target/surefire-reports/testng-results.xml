@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34410" started-at="2021-08-04T23:38:24 IST" finished-at="2021-08-04T23:38:59 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34410" started-at="2021-08-04T23:38:24 IST" finished-at="2021-08-04T23:38:59 IST">
+      <class name="tests.SentInvitationsTest">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:tests.SentInvitationsTest@2758fe70]" name="invokeBrowser" is-config="true" duration-ms="3738" started-at="2021-08-04T23:38:24 IST" finished-at="2021-08-04T23:38:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="paginationTest()[pri:0, instance:tests.SentInvitationsTest@2758fe70]" name="paginationTest" duration-ms="30573" started-at="2021-08-04T23:38:28 IST" finished-at="2021-08-04T23:38:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paginationTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:tests.SentInvitationsTest@2758fe70]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2021-08-04T23:38:59 IST" finished-at="2021-08-04T23:38:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.SentInvitationsTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
